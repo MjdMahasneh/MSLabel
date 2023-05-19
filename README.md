@@ -1,9 +1,7 @@
 # MSLabel
 
 MSLabel for bounding box lebelling multi-spectral (multi-layer, and possibly time series) imagry.
-This tool is useful when visual inspection of two bands, simultanously, is required to create labels.
-
-
+This tool is useful when visual inspection of two bands, simultanously, is required to create labels. For example, in the figure below, we can visually inspect the right hand side image (image from band 2 that temporally corrosponds/associates with the inspected/target image from band 1) to annotate the target image from band 1 (target band).
 
 ![Screenshot](samples/sample.png)
 

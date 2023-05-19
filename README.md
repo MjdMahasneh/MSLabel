@@ -3,7 +3,10 @@
 MSLabel for bounding box lebelling multi-spectral (multi-layer, and possibly time series) imagry.
 This tool is useful when visual inspection of two bands, simultanously, is required to create labels.
 
-<img src="[https://raw.githubusercontent.com/YourUserAccount/YourProject/master/DirectoryPath/svgdemo1.svg?sanitize=true&raw=true](https://github.com/MjdMahasneh/MSLabel/samples/sample.jpg?raw=true)" />
+
+
+![Screenshot](samples/sample.png)
+
 
 ```
 Assumes dir tree as follows:

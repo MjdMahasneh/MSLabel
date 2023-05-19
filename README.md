@@ -1,5 +1,11 @@
 # MSLabel
 
+Multi-spectral (and possibly time series) imagry Labelling 
+assumes dir tree as follows:
+   images/band1/band_1_image_1.png, band_1_image_2.png, band_1_image_3.png, etc..
+   images/band2/band_2_image_1.png, band_2_image_2.png, band_2_image_3.png, etc..
+
+
 **Please cite: [MSMT-CNN for Solar Active Region Detection with Multi-Spectral Analysis](https://doi.org/10.1007/s42979-022-01088-y) and [Active Region Detection in Multi-spectral Solar Images](https://www.scitepress.org/Link.aspx?doi=10.5220/0010310504520459)**
 
 

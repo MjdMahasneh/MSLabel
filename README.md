@@ -3,7 +3,7 @@
 Multi-spectral (and possibly time series) imagry Labelling 
 
 ```
-assumes dir tree as follows:
+Assumes dir tree as follows:
    images/band1/band_1_image_1.png, band_1_image_2.png, band_1_image_3.png, etc..
    images/band2/band_2_image_1.png, band_2_image_2.png, band_2_image_3.png, etc..
 ```

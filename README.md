@@ -4,7 +4,7 @@ MSLabel for bounding box lebelling multi-spectral (multi-layer, and possibly tim
 This tool is useful when visual inspection of two bands, simultanously, is required to create labels.
 
 ![alt text](**https://github.com/MjdMahasneh/MSLabel/samples/sample.jpg?raw=true**)
-
+<img src="[https://raw.githubusercontent.com/YourUserAccount/YourProject/master/DirectoryPath/svgdemo1.svg?sanitize=true&raw=true](https://github.com/MjdMahasneh/MSLabel/samples/sample.jpg?raw=true)" />
 
 ```
 Assumes dir tree as follows:
